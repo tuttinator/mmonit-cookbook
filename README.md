@@ -1,4 +1,14 @@
-mmonit_cookbook
-===============
+Description
+===========
 
-A cookbook for installing MMonit
+Cookbook for MMonit
+
+Requirements
+============
+
+Attributes
+==========
+
+Usage
+=====
+
